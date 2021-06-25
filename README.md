@@ -1,4 +1,4 @@
-# Linked-List-C-
+# Linked List C++
 linked list By C++  
   
 ENV: mac os  
